@@ -115,7 +115,7 @@
     "prop-types": "15.6.0",
     "react-annotation": "1.1.1",
     "roughjs": "github:emeeks/rough",
-    "semiotic-mark": "github:cvkline/semiotic-mark#7cae54c36c6c0fe192ace22fac7184a09b8fae67",
+    "semiotic-mark": "github:cvkline/semiotic-mark#2dc3b1da8a908175b47c02e2e4fae37f8fbb699d",
     "svg-path-bounding-box": "1.0.4"
   },
   "nyc": {
